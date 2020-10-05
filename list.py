@@ -11,6 +11,7 @@ print(mylist[3])
 mylist2 = []
 mylist2.append("a")
 mylist2.append("b")
+mylist2.append("c")
 
 print(mylist2)
 print(len(mylist2))
